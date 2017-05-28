@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<!-- An external SKOS concept retrieved from http://vocab.ndg.nerc.ac.uk/term/L191/1/005 -->
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
+xmlns:dc="http://purl.org/dc/elements/1.1/"> 
+<skos:Concept rdf:about='./external1.xml'>
+<skos:notation>SDN:L191:1:005</skos:notation>
+<skos:prefLabel>theme</skos:prefLabel>
+<skos:altLabel>theme</skos:altLabel>
+<skos:definition>Keyword identifies a particular subject or topic</skos:definition>
+<dc:date>2012-05-01T17:20:32.429+0000</dc:date>
+<skos:broader rdf:resource="http://vocab.ndg.nerc.ac.uk/term/L191/1/SDNKG03" /> 
+<skos:narrower rdf:resource="http://vocab.ndg.nerc.ac.uk/term/P021/73/A01X" /> 
+<skos:narrower rdf:resource="http://vocab.ndg.nerc.ac.uk/term/P021/73/ZZZZ" /> 
+</skos:Concept>
+</rdf:RDF> 

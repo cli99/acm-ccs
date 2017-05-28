@@ -1,0 +1,225 @@
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix : <> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+
+<http://127.0.0.1:3333/10.1145/1150334.1150336> dcterms:title "Algorithmic construction of sets for <i>k</i>-restrictions" ;
+	dcterms:creator "Noga Alon;Dana Moshkovitz;Shmuel Safra" ;
+	dcterms:subject "k-restriction;algorithms;almost k-wise independence;combinatorial algorithms;derandomization;generalized hashing;group testing;set-cover;splitter;theory" .
+
+<http://127.0.0.1:3333/10.1145/1186810.1186814> dcterms:title "Tight bounds for worst-case equilibria" ;
+	dcterms:creator "Artur Czumaj;Berthold V&#246;cking" ;
+	dcterms:subject "algorithms;coordination ration;economics;economics;nash equilibria;noncooperative networks;selfish strategies;theory;traffic routing" .
+
+<http://127.0.0.1:3333/10.1145/1217299.1217301> dcterms:title "Graph evolution: Densification and shrinking diameters" ;
+	dcterms:creator "Jure Leskovec;Jon Kleinberg;Christos Faloutsos" ;
+	dcterms:subject "data mining;densification power laws;graph generators;graph mining;heavy-tailed distributions;measurement;small-world phenomena;theory" .
+
+<http://127.0.0.1:3333/10.1145/1217299.1217302> dcterms:title "<i>L</i>-diversity: Privacy beyond <i>k</i>-anonymity" ;
+	dcterms:creator "Ashwin Machanavajjhala;Daniel Kifer;Johannes Gehrke;Muthuramakrishnan Venkitasubramaniam" ;
+	dcterms:subject "&ell;-diversity;k-anonymity;data privacy;miscellaneous;privacy-preserving data publishing;security" .
+
+<http://127.0.0.1:3333/10.1145/1217299.1217303> dcterms:title "Clustering aggregation" ;
+	dcterms:creator "Aristides Gionis;Heikki Mannila;Panayiotis Tsaparas" ;
+	dcterms:subject "algorithms;clustering aggregation;clustering categorical data;correlation clustering;data clustering;data mining;nonnumerical algorithms and problems" .
+
+<http://127.0.0.1:3333/10.1145/1217299.1217304> dcterms:title "Collective entity resolution in relational data" ;
+	dcterms:creator "Indrajit Bhattacharya;Lise Getoor" ;
+	dcterms:subject "algorithms;clustering;data cleaning;data mining;entity resolution;graph clustering;record linkage" .
+
+<http://127.0.0.1:3333/10.1145/1240233.1240234> dcterms:title "Multiplierless multiple constant multiplication" ;
+	dcterms:creator "Yevgen Voronenko;Markus P&#252;schel" ;
+	dcterms:subject "addition chains;algebraic algorithms;algorithms;algorithms;cost/performance;design;directed graph;fir filter;fixed-point arithmetic;number-theoretic computations;performance;strength reduction;theory" .
+
+<http://127.0.0.1:3333/10.1145/1240233.1240243> dcterms:title "Compressed representations of sequences and full-text indexes" ;
+	dcterms:creator "Paolo Ferragina;Giovanni Manzini;Veli M&#228;kinen;Gonzalo Navarro" ;
+	dcterms:subject "algorithms;arrays;burrows-wheeler transform;compression boosting;data compaction and compression;entropy;index generation;indexing methods;pattern matching;rank and select;search process;sorting and searching;text compression;text indexing;theory;trees;wavelet tree" .
+
+<http://127.0.0.1:3333/10.1145/1240233.1240244> dcterms:title "Compressed indexes for dynamic text collections" ;
+	dcterms:creator "Ho-Leung Chan;Wing-Kai Hon;Tak-Wah Lam;Kunihiko Sadakane" ;
+	dcterms:subject "algorithms;compressed suffix tree;data compaction and compression;design;dictionaries;indexing methods;pattern matching;string matching;theory" .
+
+<http://127.0.0.1:3333/10.1145/1273340.1273341> dcterms:title "Faster algorithms for sorting by transpositions and sorting by block interchanges" ;
+	dcterms:creator "Jianxing Feng;Daming Zhu" ;
+	dcterms:subject "algorithms;biology and genetics;block interchange;genome;permutation;sorting and searching;theory;time complexity;transposition;tree;trees" .
+
+<http://127.0.0.1:3333/10.1145/1273340.1273348> dcterms:title "Convergence time to Nash equilibrium in load balancing" ;
+	dcterms:creator "Eyal Even-Dar;Alex Kesselman;Yishay Mansour" ;
+	dcterms:subject "algorithms;convergence time;game theory;nash equilibrium;nonnumerical algorithms and problems;theory" .
+
+<http://127.0.0.1:3333/10.1145/1290672.1290680> dcterms:title "Succinct indexable dictionaries with applications to encoding <i>k</i>-ary trees, prefix sums and multisets" ;
+	dcterms:creator "Rajeev Raman;Venkatesh Raman;Srinivasa Rao Satti" ;
+	dcterms:subject "algorithms;computations on discrete structures;data compaction and compression;design;dictionaries;multisets;perfect hashing;prefix sums;sets;succinct data structures;theory;tries" .
+
+<http://127.0.0.1:3333/10.1145/1290672.1290686> dcterms:title "Energy-efficient algorithms for flow time minimization" ;
+	dcterms:creator "Susanne Albers;Hiroshi Fujiwara" ;
+	dcterms:subject "algorithms;combinatorial algorithms;competitive analysis;dynamic programming;flow time;offline algorithms;online algorithms;sequencing and scheduling;theory;variable-speed processor" .
+
+<http://127.0.0.1:3333/10.1145/1297332.1297338> dcterms:title "Assessing data mining results via swap randomization" ;
+	dcterms:creator "Aristides Gionis;Heikki Mannila;Taneli Mielik&#228;inen;Panayiotis Tsaparas" ;
+	dcterms:subject "0--1 data;algorithms;data mining;experimentation;management;randomization tests;significance testing;swaps" .
+
+<http://127.0.0.1:3333/10.1145/1367064.1367072> dcterms:title "Dynamic entropy-compressed sequences and full-text indexes" ;
+	dcterms:creator "Veli M&#228;kinen;Gonzalo Navarro" ;
+	dcterms:subject "access methods;algorithms;compressed dynamic data structures;compressed text databases;computations on discrete structures;data compaction and compression;entropy;file organization;partial sums;pattern matching;search process;sequences;sorting and searching" .
+
+<http://127.0.0.1:3333/10.1145/1376815.1376819> dcterms:title "Semantic text similarity using corpus-based word similarity and string similarity" ;
+	dcterms:creator "Aminul Islam;Diana Inkpen" ;
+	dcterms:subject "algorithms;corpus-based measures;experimentation;natural language interfaces;performance;semantic similarity of words;similarity of short texts;text analysis" .
+
+<http://127.0.0.1:3333/10.1145/1409620.1409621> dcterms:title "Incremental tensor analysis: Theory and applications" ;
+	dcterms:creator "Jimeng Sun;Dacheng Tao;Spiros Papadimitriou;Philip S. Yu;Christos Faloutsos" ;
+	dcterms:subject "algorithms;algorithms;data mining;multilinear algebra;performance;stream mining;tensor;theory" .
+
+<http://127.0.0.1:3333/10.1145/1490270.1490272> dcterms:title "Algebrization: A New Barrier in Complexity Theory" ;
+	dcterms:creator "Scott Aaronson;Avi Wigderson" ;
+	dcterms:subject "arithmetization;communication complexity;computation by abstract devices;interactive proofs;low-degree polynomials;oracles;query complexity;theory" .
+
+<http://127.0.0.1:3333/10.1145/1490270.1490273> dcterms:title "A Simple Proof of Bazzi&rsquo;s Theorem" ;
+	dcterms:creator "Alexander Razborov" ;
+	dcterms:subject "dnf;probabilistic computation;pseudo-random generators;theory" .
+
+<http://127.0.0.1:3333/10.1145/1490270.1490274> dcterms:title "Directed Planar Reachability Is in Unambiguous Log-Space" ;
+	dcterms:creator "Chris Bourke;Raghunath Tewari;N. V. Vinodchandran" ;
+	dcterms:subject "algorithms;directed graph reachability;path and circuit problems;planar graphs;relations among complexity classes;theory;unambiguous log-space" .
+
+<http://127.0.0.1:3333/10.1145/1497577.1497578> dcterms:title "Clustering high-dimensional data: A survey on subspace clustering, pattern-based clustering, and correlation clustering" ;
+	dcterms:creator "Hans-Peter Kriegel;Peer Kr&#246;ger;Arthur Zimek" ;
+	dcterms:subject "algorithms;clustering;data mining;high-dimensional data;survey;theory" .
+
+<http://127.0.0.1:3333/10.1145/1552303.1552304> dcterms:title "Author name disambiguation in MEDLINE" ;
+	dcterms:creator "Vetle I. Torvik;Neil R. Smalheiser" ;
+	dcterms:subject "algorithms;bibliographic databases;clustering;design methodology;digital libraries;experimentation;information search and retrieval;models;name disambiguation;performance" .
+
+<http://127.0.0.1:3333/10.1145/1595391.1595392> dcterms:title "Improved Separations between Nondeterministic and Randomized Multiparty Communication" ;
+	dcterms:creator "Matei David;Toniann Pitassi;Emanuele Viola" ;
+	dcterms:subject "communication complexity;lower bound;nondeterminism;number on forehead;randomization;relations among complexity classes;relations among complexity measures;theory" .
+
+<http://127.0.0.1:3333/10.1145/1595391.1595393> dcterms:title "Hardness of Solving Sparse Overdetermined Linear Systems: A 3-Query PCP over Integers" ;
+	dcterms:creator "Venkatesan Guruswami;Prasad Raghavendra" ;
+	dcterms:subject "algorithms;analysis of algorithms and problem complexity;hardness of approximation;linearity testing;probabilistically checkable proofs;sparse linear equations;theory" .
+
+<http://127.0.0.1:3333/10.1145/1644873.1644874> dcterms:title "Factor in the neighbors: Scalable and accurate collaborative filtering" ;
+	dcterms:creator "Yehuda Koren" ;
+	dcterms:subject "algorithms;collaborative filtering;data mining;information filtering;netflix prize;recommender systems" .
+
+<http://127.0.0.1:3333/10.1145/1714450.1714453> dcterms:title "Planarity, Determinants, Permanents, and (Unique) Matchings" ;
+	dcterms:creator "Samir Datta;Raghav Kulkarni;Nutan Limaye;Meena Mahajan" ;
+	dcterms:subject "algorithms;bipartite graphs;computations on discrete structures;counting classes;determinant;path and circuit problems;perfect matching;permanent;planarity;relations among complexity classes;theory" .
+
+<http://127.0.0.1:3333/10.1145/1867719.1867721> dcterms:title "Tradeoffs and Average-Case Equilibria in Selfish Routing" ;
+	dcterms:creator "Martin Hoefer;Alexander Souza" ;
+	dcterms:subject "algorithms;average-case analysis;economics;multiagent systems;price of anarchy;selfish routing;sequencing and scheduling;theory" .
+
+<http://127.0.0.1:3333/10.1145/1944857.1944858> dcterms:title "Lower Bounds for Coin-Weighing Problems" ;
+	dcterms:creator "Eric Purdy" ;
+	dcterms:subject "algorithms;coin-weighing problems;complexity of proof procedures;relations among complexity measures;theory" .
+
+<http://127.0.0.1:3333/10.1145/1944857.1944859> dcterms:title "Solvable Group Isomorphism Is (Almost) in NP &#8745; coNP" ;
+	dcterms:creator "Vikraman Arvind;Jacobo Tor&#225;n" ;
+	dcterms:subject "algorithms;arthur-merlin games;computational and structural complexity;computations on discrete structures;derandomization;limited nondeterminism;relations between models;theory" .
+
+<http://127.0.0.1:3333/10.1145/2071379.2071383> dcterms:title "Cache-Oblivious Algorithms" ;
+	dcterms:creator "Matteo Frigo;Charles E. Leiserson;Harald Prokop;Sridhar Ramachandran" ;
+	dcterms:subject "algorithm;algorithms;analysis of algorithms and problem complexity;cache-oblivious;caching;fast fourier transform;i/o complexity;matrix multiplication;matrix transpose;sorting;theory" .
+
+<http://127.0.0.1:3333/10.1145/2077336.2077337> dcterms:title "Pebbles and Branching Programs for Tree Evaluation" ;
+	dcterms:creator "Stephen Cook;Pierre McKenzie;Dustin Wehr;Mark Braverman;Rahul Santhanam" ;
+	dcterms:subject "branching programs;general;log space;logdcfl;lower bounds;theory" .
+
+<http://127.0.0.1:3333/10.1145/2086737.2086741> dcterms:title "Inferring Networks of Diffusion and Influence" ;
+	dcterms:creator "Manuel Gomez-Rodriguez;Jure Leskovec;Andreas Krause" ;
+	dcterms:subject "algorithms;blogs;data mining;experimentation;information cascades;meme-tracking;networks of diffusion;news media;social networks" .
+
+<http://127.0.0.1:3333/10.1145/2133360.2133364> dcterms:title "A Modular Machine Learning System for Flow-Level Traffic Classification in Large Networks" ;
+	dcterms:creator "Yu Jin;Nick Duffield;Jeffrey Erman;Patrick Haffner;Subhabrata Sen;Zhi-Li Zhang" ;
+	dcterms:subject "algorithms;classifier design and evaluation;communications network;machine learning;measurement;network management;theory;traffic classification" .
+
+<http://127.0.0.1:3333/10.1145/2141938.2141939> dcterms:title "Exact Quantum Algorithms for the Leader Election Problem" ;
+	dcterms:creator "Seiichiro Tani;Hirotada Kobayashi;Keiji Matsumoto" ;
+	dcterms:subject "algorithms;distributed computing;distributed networks;general;models of computation;modes of computation;network protocols;quantum algorithms;quantum communication;theory" .
+
+<http://127.0.0.1:3333/10.1145/2141938.2141941> dcterms:title "Extractors and Lower Bounds for Locally Samplable Sources" ;
+	dcterms:creator "Anindya De;Thomas Watson" ;
+	dcterms:subject "algorithms;extractors;locally samplable sources;lower bounds;probabilistic computation;theory" .
+
+<http://127.0.0.1:3333/10.1145/2189778.2189780> dcterms:title "Complexity Theory for Operators in Analysis" ;
+	dcterms:creator "Akitoshi Kawamura;Stephen Cook" ;
+	dcterms:subject "complexity measures and classes;computable analysis;computational complexity;higher-type complexity;second-order polynomials;theory" .
+
+<http://127.0.0.1:3333/10.1145/2362383.2362384> dcterms:title "Learning bayesian networks from Markov random fields: An efficient algorithm for linear models" ;
+	dcterms:creator "Zhenxing Wang;Laiwan Chan" ;
+	dcterms:subject "algorithms;bayesian networks;causal modeling;data mining;graphical models;performance" .
+
+<http://127.0.0.1:3333/10.1145/2362383.2362387> dcterms:title "Forecasting in the NBA and other team sports: Network effects in action" ;
+	dcterms:creator "Pedro O. S. Vaz de Melo;Virgilio A. F. Almeida;Antonio A. F. Loureiro;Christos Faloutsos" ;
+	dcterms:subject "complex networks;data mining;social networks;sports analytics;statistical computing;theory" .
+
+<http://127.0.0.1:3333/10.1145/2382559.2382560> dcterms:title "On the Sum of Square Roots of Polynomials and Related Problems" ;
+	dcterms:creator "Neeraj Kayal;Chandan Saha" ;
+	dcterms:subject "algorithms;arithmetic circuits;numerical algorithms and problems;polynomials;sum of square roots;theory" .
+
+<http://127.0.0.1:3333/10.1145/2382559.2382561> dcterms:title "A Parallel Repetition Theorem for Constant-Round Arthur-Merlin Proofs" ;
+	dcterms:creator "Rafael Pass;Muthuramakrishnan Venkitasubramaniam" ;
+	dcterms:subject "interactive proofs;modes of computation;parallel-repetition;public-coin protocols;security;soundness error;theory" .
+
+<http://127.0.0.1:3333/10.1145/2382559.2382562> dcterms:title "Approximating the Influence of Monotone Boolean Functions in O(&#x0221A;n) Query Complexity" ;
+	dcterms:creator "Dana Ron;Ronitt Rubinfeld;Muli Safra;Alex Samorodnitsky;Omri Weinstein" ;
+	dcterms:subject "algorithms;combinatorial algorithms;influence of a boolean function;sublinear query approximation algorithms;symmetric chains;theory" .
+
+<http://127.0.0.1:3333/10.1145/2382559.2382563> dcterms:title "On the Computational Complexity of Stochastic Controller Optimization in POMDPs" ;
+	dcterms:creator "Nikos Vlassis;Michael L. Littman;David Barber" ;
+	dcterms:subject "bilinear program;computational complexity;computations on polynomials;matrix fractional program;motzkin-straus theorem;nonlinear optimization;numerical algorithms and problems;partially observable markov decision process;performance;stochastic controller;sum-of-square-roots problem" .
+
+<http://127.0.0.1:3333/10.1145/2390176.2390177> dcterms:title "Approximating minimum-cost connectivity problems via uncrossable bifamilies" ;
+	dcterms:creator "Zeev Nutov" ;
+	dcterms:subject "algorithms;approximation algorithms;computations on discrete structures;graph algorithms;graph connectivity;node-costs;rooted connectivity;theory" .
+
+<http://127.0.0.1:3333/10.1145/2390176.2390180> dcterms:title "A compact routing scheme and approximate distance oracle for power-law graphs" ;
+	dcterms:creator "Wei Chen;Christian Sommer;Shang-Hua Teng;Yajun Wang" ;
+	dcterms:subject "algorithms;complex networks;distance oracle;graph theory;network protocols;nonnumerical algorithms and problems;power-law graphs;shortest path;shortest-path query;theory" .
+
+<http://127.0.0.1:3333/10.1145/2390176.2390188> dcterms:title "On exact algorithms for treewidth" ;
+	dcterms:creator "Hans L. Bodlaender;Fedor V. Fomin;Arie M. C. A. Koster;Dieter Kratsch;Dimitrios M. Thilikos" ;
+	dcterms:subject "algorithms;computations on discrete structures;design;dynamic programming;exact algorithms;experimentation;graph algorithms;graph theory;separators;theory;treewidth" .
+
+<http://127.0.0.1:3333/10.1145/2435209.2435210> dcterms:title "Nearest Neighbor-Based Classification of Uncertain Data" ;
+	dcterms:creator "Fabrizio Angiulli;Fabio Fassetti" ;
+	dcterms:subject "algorithms;classification;data mining;nearest neighbor;nearest neighbor rule;probability density functions;uncertain data" .
+
+<http://127.0.0.1:3333/10.1145/2435209.2435211> dcterms:title "Comparative Document Summarization via Discriminative Sentence Selection" ;
+	dcterms:creator "Dingding Wang;Shenghuo Zhu;Tao Li;Yihong Gong" ;
+	dcterms:subject "algorithms;comparative document summarization;discriminative sentence selection;experimentation;information search and retrieval;learning;performance" .
+
+<http://127.0.0.1:3333/10.1145/2435209.2435212> dcterms:title "Message-Passing Algorithms for Sparse Network Alignment" ;
+	dcterms:creator "Mohsen Bayati;David F. Gleich;Amin Saberi;Ying Wang" ;
+	dcterms:subject "algorithms;belief propagation;general;graph matching;message-passing;network alignment" .
+
+<http://127.0.0.1:3333/10.4018/jdwm.2010090804> dcterms:title "Mining Frequent Generalized Patterns for Web Personalization in the Presence of Taxonomies" ;
+	dcterms:creator "Panagiotis Giannikopoulos;Iraklis Varlamis;Magdalini Eirinaki" ;
+	dcterms:subject "apriori;fp-growth;frequent pattern mining;generalized association rule mining;gp-close" .
+
+<http://127.0.0.1:3333/10.1145/2438645.2438646> dcterms:title "Replacement Paths and Distance Sensitivity Oracles via Fast Matrix Multiplication" ;
+	dcterms:creator "Oren Weimann;Raphael Yuster" ;
+	dcterms:subject "algorithms;computations on discrete structures;design;distance oracles;fault tolerance;graph theory;replacement paths;shortest paths;theory" .
+
+<http://127.0.0.1:3333/10.1145/2438645.2438647> dcterms:title "Approximating the Girth" ;
+	dcterms:creator "Liam Roditty;Roei Tov" ;
+	dcterms:subject "algorithms;approximation;girth;graph theory;graphs;minimum weight cycle;performance;theory" .
+
+<http://127.0.0.1:3333/10.1145/2438645.2438648> dcterms:title "An O(log n)-Approximation Algorithm for the Edge-Disjoint Paths Problem in Eulerian Planar Graphs" ;
+	dcterms:creator "Ken-Ichi Kawarabayashi;Yusuke Kobayashi" ;
+	dcterms:subject "4-edge-connected graph;algorithms;approximation algorithm;edge-disjoint paths;eulerian graph;graph theory" .
+
+<http://127.0.0.1:3333/10.1145/2438645.2438650> dcterms:title "Speed Scaling with an Arbitrary Power Function" ;
+	dcterms:creator "Nikhil Bansal;Ho-Leung Chan;Kirk Pruhs" ;
+	dcterms:subject "algorithms;design;nonnumerical algorithms and problems;performance;scheduling;speed scaling" .
+
+<http://127.0.0.1:3333/10.1145/2438645.2438651> dcterms:title "Approximation Algorithms for a Minimization Variant of the Order-Preserving Submatrices and for Biclustering Problems" ;
+	dcterms:creator "Dorit S. Hochbaum;Asaf Levin" ;
+	dcterms:subject "algorithms;approximation algorithm;biclustering;combinatorics;gene expression;order preserving;theory" .
